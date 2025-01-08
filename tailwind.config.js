@@ -1,4 +1,5 @@
-const plugin = require("tailwindcss/plugin");
+// const plugin = require("tailwindcss/plugin");
+
 /** @type {import('tailwindcss').Config} */
 const withMT = require("@material-tailwind/react/utils/withMT");
 

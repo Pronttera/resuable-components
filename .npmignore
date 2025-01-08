@@ -1,0 +1,8 @@
+# Ignore the Vite logo
+vite.svg
+
+# Ignore storybook build files (optional)
+storybook-static/
+
+# Ignore the src directory (optional, since only dist is needed)
+src/
