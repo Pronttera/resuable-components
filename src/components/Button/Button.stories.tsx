@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import ButtonMT from "./Button.tsx";
 
 export default {

@@ -2,6 +2,7 @@ import { Button } from "@material-tailwind/react";
 
 const ButtonTW = (props: any) => {
   return (
+    // @ts-expect-error Package Issue
     <Button
       size={props?.size || "md"}
       variant={props?.variant || "filled"}

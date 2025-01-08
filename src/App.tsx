@@ -1,12 +1,8 @@
 import "./App.css";
-import { Button } from "@material-tailwind/react";
+// import { Button } from "@material-tailwind/react";
 
 function App() {
-  return (
-    <>
-      <Button variant="filled">Hello World!</Button>
-    </>
-  );
+  return <>{/* <Button variant="filled">Hello World!</Button> */}</>;
 }
 
 export default App;
