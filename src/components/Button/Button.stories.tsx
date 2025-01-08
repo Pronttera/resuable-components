@@ -60,7 +60,7 @@ export default {
   },
   tags: ["autodocs"],
   args: {
-    label: "Click Me!",
+    label: "Submit!",
     variant: "filled",
     color: "black",
     ripple: true,
