@@ -16,7 +16,7 @@ const config = {
     },
   },
   plugins: [
-    require("@material-tailwind/react/plugin"), // Include Material Tailwind plugin
+    // require("@material-tailwind/react/plugin"), //  For Publishing Include Material Tailwind plugin
   ],
 };
 
